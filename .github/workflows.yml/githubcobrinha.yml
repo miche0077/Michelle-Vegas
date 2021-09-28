@@ -9,7 +9,7 @@ on:
 jobs:
   build:
     name: Jobs to update datas
-    runs-on: macOS-latest
+    runs-on: macOS
     steps:
       # Snake Animation
       - uses: Platane/snk@master
