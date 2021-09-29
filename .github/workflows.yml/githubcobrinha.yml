@@ -1,4 +1,3 @@
-   
 name: Generate Datas
 
 on:
@@ -9,7 +8,7 @@ on:
 jobs:
   build:
     name: Jobs to update datas
-    runs-on: macOS
+    runs-on: ubuntu-latest
     steps:
       # Snake Animation
       - uses: Platane/snk@master
