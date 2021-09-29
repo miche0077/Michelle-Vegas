@@ -1,5 +1,5 @@
 #About me
-<h1 color="#FF9CDB">My name is Michelle Vegas</h1>
+<h1 style={color:"#FF9CDB}">My name is Michelle Vegas</h1>
 - 🌱 I'm currently learning React
 -👩🏽‍💻 Pronouns: ela/dela 
 
