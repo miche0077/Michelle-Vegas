@@ -5,11 +5,7 @@ Olá! meu nome é Cindy Michelle Vegas Perez, sou uma jovem apaixonada por tecno
 Embora ainda não tenha experiência profissional, estou comprometida com minha formação e tenho trabalhado em projetos pessoais para aplicar e colocar em prática o que aprendo dia a dia. Esses projetos me deram a oportunidade de trabalhar com diferentes tecnologias e linguagens de programação, como HTML, CSS, JavaScript, React, Node.js e SQL, entre outros</p>
 
 
-<div align="center">
-  <a href="https://github.com/miche0077">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miche0077&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miche0077&layout=compact&langs_count=7&theme=radical"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Miche-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Miche-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
