@@ -1,8 +1,8 @@
-#About me
-<h1>My name is Michelle Vegas</h1>
-- 🌱 I'm currently learning React
--👩🏽‍💻 Pronouns: ela/dela 
+<h1>Seja Bem-vindo</h1> 
+<p>
+Olá! meu nome é Cindy Michelle Vegas Perez, sou uma jovem apaixonada por tecnologia e atualmente estou estudando desenvolvimento FullStack. Estou animada com a ideia de aprender tudo o que é necessário para construir aplicativos web completos e funcionais do zero.
 
+Embora ainda não tenha experiência profissional, estou comprometida com minha formação e tenho trabalhado em projetos pessoais para aplicar e colocar em prática o que aprendo dia a dia. Esses projetos me deram a oportunidade de trabalhar com diferentes tecnologias e linguagens de programação, como HTML, CSS, JavaScript, React, Node.js e SQL, entre outros</p>
 
 
 <div align="center">
